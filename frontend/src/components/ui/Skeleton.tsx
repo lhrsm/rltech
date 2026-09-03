@@ -1,0 +1,21 @@
+import React from 'react';
+import { clsx } from 'clsx';
+import { twMerge } from 'tailwind-merge';
+
+interface SkeletonProps {
+  className?: string;
+}
+
+export const Skeleton: React.FC<SkeletonProps> = ({ className }) => {
+  return (
+    <div
+      className={twMerge(
+        clsx(
+          'animate-pulse rounded-md bg-zinc-800/60',
+          className
+        )
+      )}
+      aria-hidden="true"
+    />
+  );
+};

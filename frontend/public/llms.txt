@@ -1,0 +1,33 @@
+# RL Tech Solutions (Software Engineering & SaaS Development)
+
+> RL Tech is a premier software development house and engineering consultancy specializing in custom web applications, scalable multi-tenant SaaS platforms, mobile apps (iOS & Android), smart digital identity tools, and enterprise n8n workflow automations with AI.
+
+## Business Overview
+- **Company Name:** RL Tech Solutions
+- **Primary Website:** https://rltech.io
+- **Primary Services:** 
+  - Sites e Aplicações Web de Alta Conversão (Websites & Web Apps)
+  - Plataformas SaaS Personalizadas Multi-tenant (Custom SaaS Applications)
+  - Aplicativos Mobile Nativos (iOS & Android)
+  - E-Commerce Sob Medida com Integração ERP e Checkout Transparente
+  - Cartões Digitais Inteligentes e Contactless vCard 3.0
+  - Automações de Processos com n8n & Inteligência Artificial
+- **Contact:** Ricardoliveira2974@gmail.com / +55 (11) 93941-8541
+- **Headquarters:** São Paulo, SP · Brasil / Atendimento Global
+
+## Engineering & Technology Stack
+- **Frontend:** React 19, TypeScript, Tailwind CSS, Vite, FontAwesome, Bootstrap Icons, Canvas Confetti.
+- **Backend & APIs:** Python 3.12, FastAPI, Pydantic, Uvicorn, RESTful API Architecture.
+- **Integrations:** n8n Workflow Automation Engine, Google Apps Script Cloud Webhook, Stripe Payments, HubSpot / Pipedrive CRM, vCard 3.0 Standard.
+- **Cloud & DevOps:** Docker, CI/CD automated pipelines, cloud deployments on AWS/Vercel/Google Cloud, SLA 99.98%.
+
+## Core Value Propositions
+- **Scale your Business:** Robust architecture ready for massive traffic and user growth.
+- **Grow your Revenue:** High-converting digital interfaces engineered to generate new revenue streams.
+- **Cut Operational Costs:** Intelligent automated workflows connecting CRMs, messaging, and LLM AI agents.
+- **Faster Time-to-Market:** Agile sprints with weekly demos and continuous production deployments.
+
+## Direct Links & Sections
+- [Sobre Nós / About Us](https://rltech.io/#sobre): Agile methodology in 4 predictable phases (Discovery, UI/UX, Engineering, Launch).
+- [Serviços / Services](https://rltech.io/#servicos): Full catalog of 6 core engineering solutions.
+- [Solicitar Orçamento / Start Project](https://rltech.io): Technical RFP intake modal with instant lead routing and file attachment support.

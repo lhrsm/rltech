@@ -1,0 +1,23 @@
+{
+  "name": "rl-tech-platform",
+  "version": "1.0.0",
+  "description": "RL Tech Enterprise Platform - React & Python",
+  "scripts": {
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "start:backend": "python backend/run.py",
+    "test:backend": "python backend/test_api.py"
+  },
+  "keywords": [
+    "saas",
+    "react",
+    "fastapi",
+    "tailwind",
+    "n8n",
+    "automation",
+    "vcard",
+    "enterprise"
+  ],
+  "author": "RL Tech Solutions",
+  "license": "MIT"
+}
